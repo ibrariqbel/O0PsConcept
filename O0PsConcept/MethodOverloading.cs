@@ -10,7 +10,7 @@ namespace O0PsConcept
     {
         public virtual void ParentMethod()
         {
-            int a=10;
+          
             Console.WriteLine("i'm parent method");
         }
     }
