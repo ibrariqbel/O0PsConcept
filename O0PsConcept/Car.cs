@@ -32,6 +32,11 @@ namespace O0PsConcept
             return speed;
         }
 
+        public void CurrentSpeed()
+        {
+            Console.WriteLine("Your Current Speed is:120kph");
+        }
+
     }
 
 }
