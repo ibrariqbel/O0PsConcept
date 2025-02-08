@@ -105,7 +105,7 @@
 //example.ArrayListExamples();
 
 //example.HashTableExample
-//this is test cause 
+
 
 
 GenricCollectionExample objGCE = new GenricCollectionExample();
