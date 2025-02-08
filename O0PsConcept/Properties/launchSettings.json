@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "O0PsConcept": {
+      "commandName": "Project",
+      "remoteDebugEnabled": true
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
