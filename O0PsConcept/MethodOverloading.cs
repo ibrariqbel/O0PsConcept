@@ -10,7 +10,11 @@ namespace O0PsConcept
     {
         public virtual void ParentMethod()
         {
+<<<<<<< HEAD
           
+=======
+            int a=23;
+>>>>>>> e89e47975b03790bd64a28b1ad8fc872e4104a48
             Console.WriteLine("i'm parent method");
         }
     }
